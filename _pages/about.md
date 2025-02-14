@@ -33,7 +33,7 @@ LiveRetro: Visual Analytics for Strategic Retrospect in Livestream E-Commerce
 
 Yuchen Wu, **Yuansong Xu**, Shenghan Gao, Xingbo Wang, Wenkai Song, Zhiheng Nie, Xiaomeng Fan, Quan Li
 
-[**PDF**](https://ieeexplore.ieee.org/abstract/document/10295389) <strong><span class='show_paper_citations' data='AB_U2BoAAAAJ:d1gkVwhDpl0C'></span></strong>
+[**PDF**](https://ieeexplore.ieee.org/abstract/document/10295389) <strong><span class='show_paper_citations' data='AB_U2BoAAAAJ:d1gkVwhDpl0C'></span></strong><br>
 This study identified computational features, formulated design requirements, and developed LiveRetro , an interactive visual analytics system. It enables comprehensive retrospective analysis of livestream e-commerce for streamers, viewers, and merchandise. LiveRetro employs enhanced visualization and time-series forecasting models to align performance features and feedback, identifying influences at channel, merchandise, feature, and segment levels.
 </div>
 </div>
