@@ -21,12 +21,12 @@ I am a second-year graduate student from [School of Information Science and Tech
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.01*: 🎉🎉 Our paper "Advancing Problem-Based Learning with Clinical Reasoning for Improved Differential Diagnosis in Medical Education" is conditional accepted by CHI 2025. 
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/CHI2025.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/CHI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Advancing Problem-Based Learning with Clinical Reasoning for Improved Differential Diagnosis in Medical Education
@@ -35,7 +35,7 @@ Advancing Problem-Based Learning with Clinical Reasoning for Improved Differenti
 
 Conditionally Accepted by CHI 2025
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 2023</div><img src='images/VIS2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
