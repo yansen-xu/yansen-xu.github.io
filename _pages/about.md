@@ -26,6 +26,17 @@ I am a second-year graduate student from [School of Information Science and Tech
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/CHI2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Advancing Problem-Based Learning with Clinical Reasoning for Improved Differential Diagnosis in Medical Education
+
+**Yuansong Xu**, Yuheng Shao, Jiahe Dong, Shaohan Shi, Chang Jiang, Quan Li
+
+Conditionally Accepted by CHI 2025
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 2023</div><img src='images/VIS2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -38,11 +49,23 @@ This study identified computational features, formulated design requirements, an
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese CHI 2024</div><img src='images/ChineseCHI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
+Medillustrator: Improving Retrospective Learning in Physicians’ Continuous Medical Education via Multimodal Diagnostic Data Alignment and Representation
+
+**Yuansong Xu**, Jiahe Dong, Yijie Fan, Yuheng Shao, Chang Jiang, Lixia Jin, Yuanwu Cao, Quan Li
+
+[**Preprint**](https://arxiv.org/abs/2411.15593) <strong><span class='show_paper_citations' data='AB_U2BoAAAAJ:d1gkVwhDpl0C'></span></strong><br>
+We introduce Medillustrator, a visual analytics system crafted to facilitate novice physicians’ retrospective learning. Our structured approach enables novice physicians to explore and review research cases at an overview level and analyze specific cases with consistent alignment of multimodal and reference data. Furthermore, physicians can record and review analyzed results to facilitate further retrospection.
+</div>
+</div>
+
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
