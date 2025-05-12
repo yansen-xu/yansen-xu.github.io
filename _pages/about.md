@@ -33,7 +33,30 @@ Advancing Problem-Based Learning with Clinical Reasoning for Improved Differenti
 
 **Yuansong Xu**, Yuheng Shao, Jiahe Dong, Shaohan Shi, Chang Jiang, Quan Li
 
-Conditionally Accepted by CHI 2025
+Accepted by CHI 2025
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025 LBW</div><img src='images/CHI2025LBW.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+CaseMaster: Designing a Probe for Oral Case Presentation Training with LLM Assistance
+
+Yang Ouyang, **Yuansong Xu**, Chang Jiang, Quan Li
+
+Accepted by CHI 2025 LBW
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese CHI 2024</div><img src='images/ChineseCHI2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Medillustrator: Improving Retrospective Learning in Physicians’ Continuous Medical Education via Multimodal Diagnostic Data Alignment and Representation
+
+**Yuansong Xu**, Jiahe Dong, Yijie Fan, Yuheng Shao, Chang Jiang, Lixia Jin, Yuanwu Cao, Quan Li
+
+[**Preprint**](https://arxiv.org/abs/2411.15593) <strong><span class='show_paper_citations' data='AB_U2BoAAAAJ:d1gkVwhDpl0C'></span></strong><br>
+We introduce Medillustrator, a visual analytics system crafted to facilitate novice physicians’ retrospective learning. Our structured approach enables novice physicians to explore and review research cases at an overview level and analyze specific cases with consistent alignment of multimodal and reference data. Furthermore, physicians can record and review analyzed results to facilitate further retrospection.
 </div>
 </div>
 
@@ -49,17 +72,6 @@ This study identified computational features, formulated design requirements, an
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chinese CHI 2024</div><img src='images/ChineseCHI2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Medillustrator: Improving Retrospective Learning in Physicians’ Continuous Medical Education via Multimodal Diagnostic Data Alignment and Representation
-
-**Yuansong Xu**, Jiahe Dong, Yijie Fan, Yuheng Shao, Chang Jiang, Lixia Jin, Yuanwu Cao, Quan Li
-
-[**Preprint**](https://arxiv.org/abs/2411.15593) <strong><span class='show_paper_citations' data='AB_U2BoAAAAJ:d1gkVwhDpl0C'></span></strong><br>
-We introduce Medillustrator, a visual analytics system crafted to facilitate novice physicians’ retrospective learning. Our structured approach enables novice physicians to explore and review research cases at an overview level and analyze specific cases with consistent alignment of multimodal and reference data. Furthermore, physicians can record and review analyzed results to facilitate further retrospection.
-</div>
-</div>
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
