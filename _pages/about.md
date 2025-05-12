@@ -21,7 +21,7 @@ I am a second-year master student from [School of Information Science and Techno
 
 
 # 🔥 News
-- *2025.01*: 🎉🎉 Our paper "Advancing Problem-Based Learning with Clinical Reasoning for Improved Differential Diagnosis in Medical Education" is conditional accepted by CHI 2025. 
+- *2025.01*: 🎉🎉 Our paper "Advancing Problem-Based Learning with Clinical Reasoning for Improved Differential Diagnosis in Medical Education" is accepted by CHI 2025. 
 
 
 # 📝 Publications 
