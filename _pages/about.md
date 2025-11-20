@@ -45,8 +45,8 @@ We designed e-MedLearn, a learner-centered PBL system that supports more efficie
 CaseMaster: Designing a Probe for Oral Case Presentation Training with LLM Assistance
 
 Yang Ouyang, **Yuansong Xu**, Chang Jiang, Quan Li
-
-Accepted by CHI 2025 LBW
+[**PDF**](https://dl.acm.org/doi/10.1145/3706599.3720206) <strong><span class='show_paper_citations' data='AB_U2BoAAAAJ:d1gkVwhDpl0C'></span></strong><br>
+We conducted a formative study with six medical educators and developed CaseMaster, an interactive probe that leverages LLM-generated content tailored to medical education to help users train their OCP skills. Through a preliminary user study from the expert perspective, we validated the effectiveness of the probe.
 </div>
 </div>
 
