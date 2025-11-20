@@ -27,6 +27,18 @@ I am a second-year master student from [School of Information Science and Techno
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/CSCW2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ReviseMate: Exploring Contextual Support for Digesting STEM Paper Reviews
+
+**Yuansong Xu**, Shuhao Zhang, Yijie Fan, Shaohan Shi, Zhenhui Peng, Quan Li
+
+[**PDF**](https://dl.acm.org/doi/10.1145/3757502) <strong><span class='show_paper_citations' data='AB_U2BoAAAAJ:d1gkVwhDpl0C'></span></strong><br>
+We developed ReviseMate, an interactive system designed for researchers to effectively assimilating and integrating reviewer feedback to refine their papers and handle potential rebuttal phases in academic venues. A controlled user study demonstrated the superiority of ReviseMate over baseline methods, with positive feedback regarding user interaction. Subsequent field deployment further validated the effectiveness of ReviseMate in real-world review digestion scenarios. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2025</div><img src='images/CHI2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
