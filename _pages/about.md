@@ -21,6 +21,7 @@ I am a second-year master student from [School of Information Science and Techno
 
 
 # 🔥 News
+- *2025.02*: 🎉🎉 Our paper "ReviseMate: Exploring Contextual Support for Digesting STEM Paper Reviews" is accepted by CSCW 2025. 
 - *2025.01*: 🎉🎉 Our paper "Advancing Problem-Based Learning with Clinical Reasoning for Improved Differential Diagnosis in Medical Education" is accepted by CHI 2025. 
 
 
@@ -33,7 +34,8 @@ Advancing Problem-Based Learning with Clinical Reasoning for Improved Differenti
 
 **Yuansong Xu**, Yuheng Shao, Jiahe Dong, Shaohan Shi, Chang Jiang, Quan Li
 
-Accepted by CHI 2025
+[**PDF**](https://dl.acm.org/doi/full/10.1145/3706598.3713772) <strong><span class='show_paper_citations' data='AB_U2BoAAAAJ:d1gkVwhDpl0C'></span></strong><br>
+We designed e-MedLearn, a learner-centered PBL system that supports more efficient application and practice of evidence-based clinical reasoning. Through controlled study and testing interviews, we gathered data to assess the system’s impact. The findings demonstrate that e-MedLearn improves PBL experiences and provides valuable insights for advancing clinical reasoning-based learning.
 </div>
 </div>
 
