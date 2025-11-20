@@ -94,7 +94,7 @@ This study identified computational features, formulated design requirements, an
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2023.09 - present*, Master Student, Shanghaitech University, Shanghai 
+- *2023.09 - present*, Ph.D. Student, Shanghaitech University, Shanghai 
 - *2019.09 - 2023.06*, Undergraduate, Shanghaitech University, Shanghai
 
 
